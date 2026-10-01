@@ -1,0 +1,8 @@
+{
+  "name": "AuraHealth AI",
+  "description": "Intelligent digital health companion combining personal health tracking, clinical intelligence, lab report analysis, medication management, and preventive care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

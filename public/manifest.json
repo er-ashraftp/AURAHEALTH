@@ -1,0 +1,17 @@
+{
+  "name": "AuraHealth AI - Intelligent Digital Health Companion",
+  "short_name": "AuraHealth",
+  "description": "Intelligent digital health companion combining personal wellness tracking, clinical intelligence, lab report analysis, and mobile fitness integration.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0891b2",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
